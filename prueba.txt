@@ -1,0 +1,5 @@
+hola 
+mi nombre es José Manuel
+soy estudiante de la utsjr
+soy programador backend y frontend
+quiero especializarme en ciberseguridad 
