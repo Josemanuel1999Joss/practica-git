@@ -3,3 +3,6 @@ mi nombre es José Manuel
 soy estudiante de la utsjr
 soy programador backend y frontend
 quiero especializarme en ciberseguridad 
+además quiero especializarme en iot
+poder encontrar un buen trabajo como desarrollador
+y aprender mas acerca de redes y SO 
